@@ -4,8 +4,8 @@ Make sure node.js is installed on your machine.
 
 Recommended steps to run the program:
 
-1.Open the .rar file and extract the folder.
-2.Open the folder and start cmd/terminal, enter "Node Main.js" to start the script.
+1.Clone the repository and navigate to src folder.
+2.Open the folder and start cmd/terminal in it, enter "Node Main.js" in your terminal/cmd of choice to start the script.
 3.Enjoy
 
 
