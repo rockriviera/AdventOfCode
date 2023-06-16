@@ -1,4 +1,4 @@
-# AdventOfCode
+# AdventOfCode 2019 day 2
 Disclaimer:
 The code was written with node.js v16.16.0 in mind.
 Make sure node.js is installed on your machine.
